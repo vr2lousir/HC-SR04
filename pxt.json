@@ -1,5 +1,5 @@
 {
-    "name": "ultrasound",
+    "name": "ultrasound-advanced",
     "description": "",
     "dependencies": {
         "core": "*",
